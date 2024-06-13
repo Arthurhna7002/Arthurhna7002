@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**Arthurhna7002/Arthurhna7002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boas vindas ao meu perfil
+Meu nome é Arthur Henrique
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+00001088229645sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611xaqq9wg7y7xher3j9xuna6g96k3puu7brdgw5dps&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+@alurastartestudante
+
+
